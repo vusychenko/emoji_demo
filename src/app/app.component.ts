@@ -94,9 +94,9 @@ import {GameService} from './game.service'
     }
     
     .imgWrapp{
-    height:100px;
+    height:120px;
     overflow: hidden;
-    line-height: 100px;
+    line-height: 120px;
     -webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;
     border: 1px solid transparent;
     -webkit-transition: all  0.3s;-moz-transition: all  0.3s;-ms-transition: all  0.3s;-o-transition: all  0.3s;transition: all  0.3s;
