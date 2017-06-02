@@ -58,7 +58,7 @@ import {GameService} from './game.service'
 
     .bgImg{
     position: fixed;
-    background: url("../app/imgs/bg2.jpg");
+    background: url("bg2.jpg");
     width: 100%;
     height: 100%;
     left: 0;
